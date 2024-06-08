@@ -16,8 +16,11 @@ public class MainActivity extends AppCompatActivity {
 //        how can i help you Today:
 
 //        Good Morning:
-//        adssd
+
 //        i am an android developer:
+//    i am a web developer:
+//        how was our services:
+
 
 
 
