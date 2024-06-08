@@ -14,9 +14,7 @@
         android:id="@+id/button1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="this is the button 11212"
-
-
+        android:text="Button"
 
         />
     <Button
